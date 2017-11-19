@@ -5,7 +5,7 @@ Contributors: mcfarhat
 Donate link:
 Tags: wordpress, math, simulator, collatz, simulator
 Requires at least: 4.3
-Tested up to: 4.7
+Tested up to: 4.9
 Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -33,7 +33,7 @@ If you would like some custom work done, or have an idea for a plugin you're rea
 1. Upload the plugin files to the `/wp-content/plugins/the-collatz-conjecture-simulator` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Go to a page or create a new page
-4. Insert the plugin code into the text editor [collatz_simulator]
+4. Insert the plugin code into the text editor [collatz_simulator] and save/publish
 5. That's it! Now you can visit that page from front end, and play around with the simulator
 
 == Changelog ==
