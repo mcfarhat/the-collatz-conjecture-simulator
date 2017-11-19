@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 Plugin Name: The Collatz Conjecture Simulator
 Contributors: mcfarhat
 Donate link:
